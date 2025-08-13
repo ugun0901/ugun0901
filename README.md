@@ -5,6 +5,7 @@
 
 ![Solved.ugun0901](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugun0901)
 
+![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
 <!--
 **ugun0901/ugun0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 spring
