@@ -1,10 +1,16 @@
 ## Hi there 👋
 
+## Languages
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+
+![Solved.ugun0901](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugun0901)
+
 <!--
 **ugun0901/ugun0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 spring
 Here are some ideas to get you started:
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,5 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+<img width="853" height="781" alt="img1 daumcdn" src="https://github.com/user-attachments/assets/dbb9bdd9-1937-4b5f-b78e-5a8a711e8781" />
 - ⚡ Fun fact: ...
 -->
