@@ -3,6 +3,10 @@
 ## Languages
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 
+## DB
+![mysql](https://img.shields.io/badge/mysql-#4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-#4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Solved.ugun0901](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugun0901)
 
 ![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
