@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Im YuGeon 👋
 
 ## Languages
 ![cesium](https://img.shields.io/badge/cesium-6CADDF.svg?&style=for-the-badge&logo=cesium&logoColor=white)
@@ -17,7 +17,14 @@
 
 ![Solved.ugun0901](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugun0901)
 
-![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark)   
+![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark) 
+
+## AI
+
+
+
+## I love 
+![premierleague](https://img.shields.io/badge/premierleague-360D3A.svg?&style=for-the-badge&logo=premierleague&logoColor=white)
 <!--
 **ugun0901/ugun0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 spring
