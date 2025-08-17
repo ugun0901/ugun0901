@@ -10,6 +10,7 @@
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ## DB
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
@@ -20,8 +21,8 @@
 ![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark) 
 
 ## AI
-
-
+![openai](https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
+![premierleague](https://img.shields.io/badge/premierleague-360D3A.svg?&style=for-the-badge&logo=premierleague&logoColor=white)
 
 ## I love 
 ![premierleague](https://img.shields.io/badge/premierleague-360D3A.svg?&style=for-the-badge&logo=premierleague&logoColor=white)
