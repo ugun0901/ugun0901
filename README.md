@@ -17,21 +17,25 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-![Solved.ugun0901](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugun0901)
-
-![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark) 
+## TOOL
+![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![qgis](https://img.shields.io/badge/qgis-589632.svg?&style=for-the-badge&logo=qgis&logoColor=white)
+![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 
 ## AI
 ![openai](https://img.shields.io/badge/openai-412991.svg?&style=for-the-badge&logo=openai&logoColor=white)
-![premierleague](https://img.shields.io/badge/premierleague-360D3A.svg?&style=for-the-badge&logo=premierleague&logoColor=white)
 
 ## SCM
-
+![discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
+![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 ## I love 
 ![premierleague](https://img.shields.io/badge/premierleague-360D3A.svg?&style=for-the-badge&logo=premierleague&logoColor=white)
 
+![Solved.ugun0901](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugun0901)
+
+![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark) 
 
 <!--
 **ugun0901/ugun0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
