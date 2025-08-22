@@ -2,7 +2,6 @@
 
 ## Languages
 ![cesium](https://img.shields.io/badge/cesium-6CADDF.svg?&style=for-the-badge&logo=cesium&logoColor=white)
-![cesium](https://img.shields.io/badge/cesium-6CADDF.svg?&style=for-the-badge&logo=cesium&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +35,6 @@
 
 ![Solved.ugun0901](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugun0901)
 
-![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark) 
 ![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark) 
 <!--
 **ugun0901/ugun0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
