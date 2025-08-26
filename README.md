@@ -3,6 +3,7 @@
 ## Languages
 ![cesium](https://img.shields.io/badge/cesium-6CADDF.svg?&style=for-the-badge&logo=cesium&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-663399.svg?&style=for-the-badge&logo=css&logoColor=white)
