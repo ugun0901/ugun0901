@@ -30,9 +30,6 @@
 ![discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
-## I love 
-![premierleague](https://img.shields.io/badge/premierleague-360D3A.svg?&style=for-the-badge&logo=premierleague&logoColor=white)
-
 ![Solved.ugun0901](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugun0901)
 
 ![ugun0901's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dark) 
